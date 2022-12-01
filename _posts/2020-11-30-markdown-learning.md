@@ -1,4 +1,5 @@
 ---
+layout: post
 title: markdown语法
 ---
 ## 标题
