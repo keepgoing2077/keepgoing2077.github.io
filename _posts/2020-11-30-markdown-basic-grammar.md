@@ -1,6 +1,6 @@
 ---
 layout: post
-title: markdown语法
+title: [markdown]基础语法
 ---
 - 标题  
 用`#`表示标题，一个`#`代表一级标题，两个`#`代表二级标题，以此类推  
