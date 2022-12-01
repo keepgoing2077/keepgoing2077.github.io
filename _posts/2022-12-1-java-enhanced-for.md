@@ -1,7 +1,5 @@
----
-layout: post
-title: [Java]增强的for语句
----
+# [Java]增强的for语句
+
 - Enhanced for语句可以方便地处理数组、集合中各元素  
 - 如：  
   `int[] ages = new int[10];`  
