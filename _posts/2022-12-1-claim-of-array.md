@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java中一维数组的声明
+title: [Java]一维数组的声明
 ---
 
 - Java语言中声明数组时不能指定其长度（数组中元素的个数），例如：  
