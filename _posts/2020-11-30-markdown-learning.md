@@ -14,7 +14,7 @@
 用三个星号`***`表示分割线  
 ## 链接
 用`[超链接显示名](超链接地址 "超链接title")`表示链接，其中title可以没有  
-如[bilibili弹幕网](https://www.bilibili.com/ "我测你们码")
+如[bilibili弹幕网](https://www.bilibili.com/)
 ## 图片
 用`![图片alt](图片链接 "图片title")`表示图片  
-如![沙漠中的岩石](https://markdown.com.cn/assets/img/shiprock.c3b9a023.jpg "我测你们码")  
+如![沙漠中的岩石](https://markdown.com.cn/assets/img/shiprock.c3b9a023.jpg)  
