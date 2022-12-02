@@ -1,4 +1,3 @@
-# [Java]this的使用
 - 使用this解决局部变量与域同名的问题  
 ```
     Person(int age, String name){  
