@@ -5,7 +5,7 @@ DAO层叫数据访问层，全称为data access object，属于一种比较底�
 ## Service层：
 Service层叫服务层，被称为服务，粗略的理解就是对一个或多个DAO进行的再次封装，封装成一个服务，所以这里也就不会是一个原子操作了，需要事物控制。
 
-## Controler层：
+## Controller层：
 Controler负责请求转发，接受页面过来的参数，传给Service处理，接到返回值，再传给页面。
 
 ## 总结：
